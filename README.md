@@ -1,7 +1,7 @@
 ### Óla! eu sou o Levi
 Sou um estudante de programação, desde criança sempre gostei de tecnologia e aos 16 anos resolvir
 entrar na aréa de programação. Então comecei meus estudos para se tornar um desenvolvedor Front-end,
-até o presente momento estudei Html5,Css3,e estou vendo um pouco de Javascript, meus estudos está sendo
+até o presente momento estudei Html5,Css3, e Javascript, meus estudos está sendo
 pelo Refatorando.com do Roger Santos.Venho diariamente aumentando meus conhecimentos e me aprofundando
 na aréa de TI.
 
